@@ -6,8 +6,8 @@ class Car
 
 int main
 {
-	class Car fstObj;
-	class Car sndObj;
+	Car fstObj;
+	Car sndObj;
 
 	fstObj.brand = "Toyota";
 	sndObj.brand = "Volvo";
